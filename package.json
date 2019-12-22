@@ -1,0 +1,25 @@
+{
+  "name": "misw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vaneker/misw.git",
+  "author": "Tim Vaneker <timvaneker@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.23",
+    "@emotion/core": "^10.0.22",
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.4"
+  }
+}
